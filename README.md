@@ -1,1 +1,1 @@
-# Express-RESTFUL-API-with-jwt-authentication
+# Express-RESTFUL-API-with-jwt-authorization
